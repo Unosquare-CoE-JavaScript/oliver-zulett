@@ -1,4 +1,5 @@
-## Async Await
+# Async Await
+The async keyword is used to mark a function that returns a promise, while the await keyword is used to wait for an asynchronous task to complete before continuing to the next line of code.
 
 - async allow us to use synchronous code inside an asynchronous function
 - use async keyboard in a function make the function return a promise and allows to use await keyboard inside the function
